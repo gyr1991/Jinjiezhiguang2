@@ -19,11 +19,11 @@ allprojects {
         google()
         jcenter()
     }
-}
+}wqeqwe
 weqwe
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
-12312
-dvvvvsadasdasd
-hhhhhhhhhhhhhhhhhhhh
+12312bbbb
+dvvvvsa1111dasdasd
+hhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaah
