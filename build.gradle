@@ -13,16 +13,17 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-
+sadasdasd
 allprojects {
     repositories {
         google()
         jcenter()111111111111111111111
     }
 }
-
+weqwe
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
-123123123
-dvvvv
+12312
+dvvvvsadasdasd
+hhhhhhhhhhhhhhhhhhhh
