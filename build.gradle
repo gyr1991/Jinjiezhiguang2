@@ -3,10 +3,10 @@
 buildscript {
     
     repositories {
-        google()
-        jcenter()
+        google()111111111
+        jcenter()222222222222222
     }
-    dependencies {
+    dependencies {3333333333333333333
         classpath 'com.android.tools.build:gradle:3.2.0'
 
         // NOTE: Do not place your application dependencies here; they belong
@@ -17,7 +17,7 @@ sadasdasd
 allprojects {
     repositories {
         google()
-        jcenter()
+        jcenter()111111111111111111111
     }
 }wqeqwe
 weqwe
