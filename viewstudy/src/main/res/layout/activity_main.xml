@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:aaa="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="@android:color/holo_orange_light"
+    tools:context=".MainActivity">
+
+    <com.gyr.viewstudy.myview.CustomView
+        android:id="@+id/testcu"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary"/>
+
+    <com.gyr.viewstudy.myview.InvalidTextView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="gyr辜义睿碉堡"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_light"/>
+
+    <com.gyr.viewstudy.myview.RectView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        aaa:rect_color="@android:color/holo_orange_dark"
+        android:padding="30dp"
+        android:background="@android:color/darker_gray"/>
+</LinearLayout>
